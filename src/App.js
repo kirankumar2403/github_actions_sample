@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "60px" }}>
-      <h1>Hello this is a great project of mine</h1>
+      <h1>Hello</h1>
       <p>Version: 1</p>
     </div>
   );
